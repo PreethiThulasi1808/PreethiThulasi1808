@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PreethiThulasi1808
+- 👋 Hi, I’m Preethi
 - 👀 I’m interested in Embedded system,Electronic
 - 🌱 I’m currently learning java,embedded
 - 📫 How to reach me preethithulasi2004@gmail.com
